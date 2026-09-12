@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#070A0E</color>
+    <color name="panel">#0E1319</color>
+    <color name="card">#141B23</color>
+    <color name="green">#39E091</color>
+    <color name="gold">#DDB354</color>
+    <color name="muted">#8997A6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#50AAFF</color>
+    <color name="critical">#FF5869</color>
+</resources>
