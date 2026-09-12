@@ -1,0 +1,9 @@
+Scarface Stego Studio is an offline Android steganography and media-forensics toolkit.
+
+Features include encrypted message hiding and revealing in lossless PNG images and uncompressed PCM WAV audio, AES-256-GCM authenticated encryption, PBKDF2-HMAC-SHA256 password derivation, SHA-256 hashing, entropy analysis, media structure inspection, appended-data detection, file-signature indicators, and a read-only binary/hex lab.
+
+The application performs processing locally on the device and does not request the Android INTERNET permission.
+
+It is intended for legitimate privacy, education, forensic research, and inspection of files that you own or are authorised to analyse.
+
+Discovered or extracted content is never automatically executed.

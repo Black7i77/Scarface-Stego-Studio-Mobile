@@ -1,0 +1,1 @@
+F-Droid candidate release. Adds GPLv3 licensing, clean Gradle release configuration, PNG and PCM WAV steganography, encrypted SCSTEG02 messages, and offline forensic inspection.
