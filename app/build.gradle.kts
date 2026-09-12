@@ -10,14 +10,17 @@ android {
         applicationId = "com.scarface.stegostudio"
         minSdk = 26
         targetSdk = 36
-        versionCode = 5
-        versionName = "0.3.0"
+        versionCode = 7
+        versionName = "0.3.2"
     }
 
     buildTypes {
         release {
             isMinifyEnabled = false
-            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
         }
     }
 
@@ -26,5 +29,3 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 }
-versionCode = 6
-versionName = "0.3.1"
